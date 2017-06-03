@@ -9,10 +9,15 @@ another tab with that content. Code can be executed within a cell by moving the
 cursor to that cell, then clicking on the play icon at the top.
 
 If you do not have Jupyter notebook, you can implement everything within a Python IDE.
-A pdf file has been created for each assignment. In the <code> hw </code> and
+A .pdf file has been created for each assignment, and a .py and .html file has been
+created for each lab and project. In the <code> hw </code> and
 <code> lab </code> directories, there is a pdf of each assignment contained both
 within each corresponding folder (e.g. <code> lab01 </code> and within the
-<code> pdfs </code> directory.
+<code> pdfs </code> directory. The .py and .html files are in the correponding
+lab and project folder.
+
+To view the labs and projects via a web browser, go to Dr. Larson's cstutorials
+page at http://www-users.cs.umn.edu/~larson/repo-website-resources/website/examples/csresources/data8.html
 
 Data 8 Public Materials
 =======
