@@ -1,7 +1,6 @@
 
 REU Big Data follows Fall 2016. Go to materials/fa16.
 
-======
 Data 8 Public Materials
 =======
 
